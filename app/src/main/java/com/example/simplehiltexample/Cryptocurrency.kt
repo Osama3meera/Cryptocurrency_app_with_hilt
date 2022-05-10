@@ -1,4 +1,4 @@
-package com.example.hiltexamplegeeks
+package com.example.simplehiltexample
 
 data class Cryptocurrency(
     val image: String,

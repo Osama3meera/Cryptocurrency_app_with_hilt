@@ -1,4 +1,4 @@
-package com.example.hiltexamplegeeks
+package com.example.simplehiltexample
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

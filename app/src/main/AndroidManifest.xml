@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hiltexamplegeeks">
+    package="com.example.simplehiltexample">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -9,11 +9,11 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:name=".HiltApplication"
+        android:name="com.example.simplehiltexample.HiltApplication"
         android:supportsRtl="true"
         android:theme="@style/Theme.HiltExampleGeeks">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.simplehiltexample.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

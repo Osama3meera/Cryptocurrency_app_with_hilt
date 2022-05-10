@@ -4,8 +4,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.hiltexamplegeeks.Cryptocurrency
-import com.example.hiltexamplegeeks.R
+import com.example.simplehiltexample.Cryptocurrency
+import com.example.simplehiltexample.R
 
 class CryptocurrencyAdapter(private val cryptocurrency: List<Cryptocurrency>) : RecyclerView.Adapter<CryptocurrencyAdapter.ViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {

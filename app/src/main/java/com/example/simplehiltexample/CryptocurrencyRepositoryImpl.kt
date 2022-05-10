@@ -1,4 +1,4 @@
-package com.example.hiltexamplegeeks
+package com.example.simplehiltexample
 
 class CryptocurrencyRepositoryImpl : CryptocurrencyRepository {
     override fun getCryptoCurrency() = listOf(

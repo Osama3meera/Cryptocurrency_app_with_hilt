@@ -1,4 +1,4 @@
-package com.example.hiltexamplegeeks
+package com.example.simplehiltexample
 
 import CryptocurrencyAdapter
 import androidx.appcompat.app.AppCompatActivity
